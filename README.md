@@ -1,1 +1,1 @@
-This is the dat repository for our article entitled 'O-Net: A Fast and Precise Deep-Learning Architecture for Computational Super-Resolved Phase-Modulated Optical Microscopy' whcih was published in Microscopy & Microanal;ysis (https://doi.org/10.1017/S1431927622000782).
+This is the data repository for our article entitled 'O-Net: A Fast and Precise Deep-Learning Architecture for Computational Super-Resolved Phase-Modulated Optical Microscopy' which was published in Microscopy & Microanalysis (https://doi.org/10.1017/S1431927622000782).
